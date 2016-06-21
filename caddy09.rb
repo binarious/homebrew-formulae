@@ -1,6 +1,6 @@
 require "language/go"
 
-class Caddy < Formula
+class Caddy09 < Formula
   desc "Alternative general-purpose HTTP/2 web server"
   homepage "https://caddyserver.com/"
   url "https://github.com/mholt/caddy/archive/v0.9-beta.1.tar.gz"
